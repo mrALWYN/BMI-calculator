@@ -1,5 +1,8 @@
 # BMI Calculator Project Readme
 
+![image](https://github.com/mrALWYN/BMI-calculator/assets/118893084/97ab7b76-6dca-4720-98c9-4c6dff25bd01)
+
+
 ## Overview:
 
 This project is a simple Body Mass Index (BMI) Calculator implemented using HTML, CSS, and JavaScript. The BMI calculator allows users to input their weight in kilograms and height in centimeters, and it calculates their BMI based on these inputs. The BMI result is then categorized into Underweight, Normal, Overweight, or Obese, providing users with insights into their body composition.
